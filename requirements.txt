@@ -1,0 +1,8 @@
+pandas>=1.5
+numpy>=1.23
+# Only needed for the exploratory notebook:
+scikit-learn
+scipy
+seaborn
+statsmodels
+matplotlib
